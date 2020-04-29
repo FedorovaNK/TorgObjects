@@ -1,0 +1,8 @@
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\bin\Debug\netstandard2.0\TransportSchedule.Core.deps.json
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\bin\Debug\netstandard2.0\TransportSchedule.Core.dll
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\bin\Debug\netstandard2.0\TransportSchedule.Core.pdb
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\obj\Debug\netstandard2.0\TransportSchedule.Core.csprojAssemblyReference.cache
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\obj\Debug\netstandard2.0\TransportSchedule.Core.AssemblyInfoInputs.cache
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\obj\Debug\netstandard2.0\TransportSchedule.Core.AssemblyInfo.cs
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\obj\Debug\netstandard2.0\TransportSchedule.Core.dll
+c:\для лабы оопсзи\transporttimetable\TransportSchedule.Core\obj\Debug\netstandard2.0\TransportSchedule.Core.pdb

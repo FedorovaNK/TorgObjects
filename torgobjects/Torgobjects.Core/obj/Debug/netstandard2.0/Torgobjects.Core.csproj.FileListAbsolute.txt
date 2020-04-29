@@ -1,0 +1,16 @@
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.csprojAssemblyReference.cache
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.AssemblyInfoInputs.cache
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.AssemblyInfo.cs
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.deps.json
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.dll
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.pdb
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.dll
+c:\для лабы оопсзи\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.pdb
+c:\for_lab\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.deps.json
+c:\for_lab\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.dll
+c:\for_lab\torgobjects\Torgobjects.Core\bin\Debug\netstandard2.0\Torgobjects.Core.pdb
+c:\for_lab\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.csprojAssemblyReference.cache
+c:\for_lab\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.AssemblyInfoInputs.cache
+c:\for_lab\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.AssemblyInfo.cs
+c:\for_lab\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.dll
+c:\for_lab\torgobjects\Torgobjects.Core\obj\Debug\netstandard2.0\Torgobjects.Core.pdb
